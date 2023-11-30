@@ -1,0 +1,135 @@
+.desktop2 {
+    background-color: #02050a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    top: 0px;
+  }
+  
+  .desktop2 .div {
+    background-color: #02050a;
+    height: 7586px;
+    position: relative;
+    width: 1440px;
+  }
+
+  .desktop2 .overlap1 {
+    
+    height: 1025px;
+    position: relative;
+    top: -10px;
+    width: 1132px;
+  }
+
+  .desktop2 .about-me {
+    color: #55e6a5;
+    font-family: "Roboto", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 198px;
+    letter-spacing: 2.52px;
+    line-height: 45.8px;
+    position: absolute;
+    top: 80px;
+    width: 445px;
+  }
+
+  .desktop2 .p {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 198px;
+    letter-spacing: 2.8px;
+    line-height: 50.9px;
+    position: absolute;
+    top: 154px;
+    white-space: nowrap;
+  }
+  
+  .desktop2 .overlap-3 {
+    height: 337px;
+    left: 198px;
+    position: absolute;
+    top: 235px;
+    width: 561px;
+  }
+  
+  .desktop2 .about-2 {
+    height: 150px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 150px;
+  }
+  
+  .desktop2 .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 2.52px;
+    line-height: 45.8px;
+    position: absolute;
+    top: 145px;
+    width: 406px;
+  }
+
+  .desktop2 .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Arya", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 1.44px;
+    line-height: 30.5px;
+    position: absolute;
+    top: 214px;
+    width: 561px;
+  }
+  
+  .desktop2 .about-3 {
+    height: 150px;
+    left: 198px;
+    object-fit: cover;
+    position: absolute;
+    top: 602px;
+    width: 150px;
+  }
+
+  .desktop2 .overlap-4 {
+    height: 261px;
+    left: 198px;
+    position: absolute;
+    top: 768px;
+    width: 565px;
+  }
+
+  .desktop2 .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 2.52px;
+    line-height: 45.8px;
+    position: absolute;
+    top: 0;
+    width: 406px;
+  }
+
+  .desktop2 .my-purpose-is-to {
+    color: #ffffff;
+    font-family: "Arya", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 1.44px;
+    line-height: 30.5px;
+    position: absolute;
+    top: 64px;
+    width: 565px;
+  }
