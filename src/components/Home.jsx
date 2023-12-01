@@ -13,8 +13,8 @@ import arrow1 from '../img/arrow-1.svg';
 
 const Home = () => {
   return (
-    <div className='desktop'>
-      <div className="overlap">
+    <div className='desktop1'>
+      <div className="overlap1">
           <img className="line" alt="Line" src={line3}/>
           <p className="hi-i-m-manishi">
             <span className="text-wrapper">
@@ -41,7 +41,6 @@ const Home = () => {
               <img className="line-5" alt="Line" src={line5} />
             </div>
           </div>
-          <Outlet/>
         </div>
     </div>
   )

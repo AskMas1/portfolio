@@ -2,7 +2,7 @@
     background-color: #02050a;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
     width: 100%;
     top: 0px;
   }
@@ -19,7 +19,8 @@
     height: 1025px;
     position: relative;
     top: -10px;
-    width: 1132px;
+    left:200px;
+    width: 932px;
   }
 
   .desktop2 .about-me {
@@ -31,20 +32,20 @@
     letter-spacing: 2.52px;
     line-height: 45.8px;
     position: absolute;
-    top: 80px;
+    top: 60px;
     width: 445px;
   }
 
   .desktop2 .p {
     color: #ffffff;
     font-family: "Roboto", Helvetica;
-    font-size: 40px;
+    font-size: 34px;
     font-weight: 700;
     left: 198px;
     letter-spacing: 2.8px;
     line-height: 50.9px;
     position: absolute;
-    top: 154px;
+    top: 124px;
     white-space: nowrap;
   }
   
@@ -87,7 +88,7 @@
     letter-spacing: 1.44px;
     line-height: 30.5px;
     position: absolute;
-    top: 214px;
+    top: 194px;
     width: 561px;
   }
   
@@ -124,12 +125,12 @@
   .desktop2 .my-purpose-is-to {
     color: #ffffff;
     font-family: "Arya", Helvetica;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 700;
     left: 0;
     letter-spacing: 1.44px;
     line-height: 30.5px;
     position: absolute;
-    top: 64px;
+    top: 44px;
     width: 565px;
   }

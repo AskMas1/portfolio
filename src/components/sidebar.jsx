@@ -21,71 +21,71 @@ const sidebar = () => {
             <span className="text-wrapper-3">A</span>
             <span className="text-wrapper-4">nkit</span>
           </p>
-          <div className="group-2">
-            <div className="overlap-group-wrapper">
+           <div className="group-2">
+           <Link className='nav-link' to='/home'>    <div className="overlap-group-wrapper">
               <div className="overlap-group-2">
                 <div className="vector-wrapper">
                   <img className="vector" alt="Vector" src={vector} />
                 </div>
-           <Link className='nav-link' to='/home'>   <div className="home">HOME</div></Link> 
+              <div className="home">HOME</div>
               </div>
-            </div>
-            <div className="overlap-wrapper">
+            </div></Link> 
+            <Link className='nav-link' to='/about'> <div className="overlap-wrapper">
               <div className="overlap-group-2">
                 <div className="img-wrapper">
                   <img className="group-3" alt="Group" src={group8} />
                 </div>
-                <Link className='nav-link' to='/about'> <div className="about">ABOUT</div></Link>
+                 <div className="about">ABOUT</div>
               </div>
-            </div>
-            <div className="div-wrapper">
+            </div></Link>
+            <Link className='nav-link' to='/service'><div className="div-wrapper">
               <div className="overlap-group-2">
                 <div className="img-wrapper">
                   <img className="vector-2" alt="Vector" src={vector1} />
                 </div>
-                <Link className='nav-link' to='/service'> <div className="services">SERVICES</div></Link>
+                <div className="services">SERVICES</div>
               </div>
-            </div>
-            <div className="group-4">
+            </div></Link>
+            <Link className='nav-link' to='/experience'> <div className="group-4">
               <div className="overlap-group-2">
                 <div className="overlap-group-3">
                   <img className="group-5" alt="Group" src={group52} />
                 </div>
-                <Link className='nav-link' to='/experience'><div className="experience">EXPERIENCE</div></Link>
+                <div className="experience">EXPERIENCE</div>
               </div>
-            </div>
-            <div className="group-6">
+            </div></Link>
+            <Link className='nav-link' to='/education'> <div className="group-6">
               <div className="overlap-group-2">
                 <div className="overlap-group-3">
                   <img className="group-5" alt="Group" src={group} />
                 </div>
-                <Link className='nav-link' to='/education'> <div className="education">EDUCATION</div></Link>
+                 <div className="education">EDUCATION</div>
               </div>
-            </div>
-            <div className="group-7">
+            </div></Link>
+            <Link className='nav-link' to='/skills'> <div className="group-7">
               <div className="overlap-group-2">
                 <div className="overlap-group-3">
                   <img className="expanded" alt="Expanded" src={expanded} />
                 </div>
-                <Link className='nav-link' to='/skills'>  <div className="text-wrapper-5">SKILLS</div></Link>
+                 <div className="text-wrapper-5">SKILLS</div>
               </div>
-            </div>
-            <div className="group-8">
+            </div></Link>
+            <Link className='nav-link' to='/portfolio'><div className="group-8">
               <div className="overlap-group-2">
                 <div className="overlap-group-3">
                   <img className="vector-3" alt="Vector" src={vector2} />
                 </div>
-                <Link className='nav-link' to='/portfolio'>  <div className="text-wrapper-5">PORTFOLIO</div></Link>
+                <div className="text-wrapper-5">PORTFOLIO</div>
               </div>
-            </div>
-            <div className="group-9">
+            </div></Link>
+            <Link className='nav-link' to='/contact'>   <div className="group-9">
               <div className="overlap-group-2">
                 <div className="overlap-group-3">
                   <img className="vector-4" alt="Vector" src={vector3}/>
                 </div>
-                <Link className='nav-link' to='/contact'>   <div className="text-wrapper-5">CONTACT</div></Link>
+                  <div className="text-wrapper-5">CONTACT</div>
               </div>
-            </div>
+            </div></Link>
           </div>
         </div>
         <Outlet/>
