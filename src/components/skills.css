@@ -1,0 +1,165 @@
+.desktop6 {
+    background-color: #02050a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    top: 0px;
+  }
+  
+  .desktop6 .div {
+    background-color: #02050a;
+    height: 7586px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktop6 .overlap6 {
+    background-color: #02050a;
+    height: 1025px;
+    left: 178px;
+    position: relative;
+    width: 932px;
+  }
+
+.desktop .group-19 {
+    height: 518px;
+    left: -100px;
+    position: absolute;
+    top: 110px;
+    width: 1039px;
+  }
+  
+  .desktop .overlap-9 {
+    background-color: #02050a33;
+    border: 1px solid;
+    border-color: #c0c0c0;
+    border-radius: 8px;
+    box-shadow: inset 408px 215px 10.1px 299px #12121240;
+    height: 518px;
+    position: relative;
+    width: 1035px;
+  }
+  
+  .desktop .my-skills {
+    color: #55e6a5;
+    font-family: "Roboto", Helvetica;
+    font-size: 36px;
+    font-weight: 500;
+    left: 389px;
+    letter-spacing: 2.16px;
+    line-height: 45.8px;
+    position: absolute;
+    top: 76px;
+    white-space: nowrap;
+    width: 233px;
+  }
+  
+  .desktop .text-wrapper-23 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 32px;
+    letter-spacing: 2.4px;
+    line-height: 50.9px;
+    position: absolute;
+    text-align: center;
+    top: 134px;
+    width: 931px;
+  }
+  
+  .desktop .group-20 {
+    height: 114px;
+    left: 87px;
+    position: absolute;
+    top: 291px;
+    width: 838px;
+  }
+  
+  .desktop .group-21 {
+    height: 114px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 114px;
+  }
+  
+  .desktop .overlap-group-7 {
+    background-color: #55e6a51a;
+    border: 1px solid;
+    border-color: #55e6a5;
+    border-radius: 58px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 116px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 116px;
+  }
+  
+  .desktop .group-22 {
+    height: 60px;
+    left: 27px;
+    position: absolute;
+    top: 27px;
+    width: 60px;
+  }
+  
+  .desktop .group-23 {
+    height: 114px;
+    left: 181px;
+    position: absolute;
+    top: 0;
+    width: 114px;
+  }
+  
+  .desktop .group-24 {
+    height: 114px;
+    left: 362px;
+    position: absolute;
+    top: 0;
+    width: 114px;
+  }
+  
+  .desktop .js-logo-removebg {
+    height: 60px;
+    left: 31px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 53px;
+  }
+  
+  .desktop .group-25 {
+    height: 114px;
+    left: 724px;
+    position: absolute;
+    top: 0;
+    width: 114px;
+  }
+  
+  .desktop .group-26 {
+    height: 62px;
+    left: 32px;
+    position: absolute;
+    top: 31px;
+    width: 51px;
+  }
+  
+  .desktop .group-27 {
+    height: 114px;
+    left: 543px;
+    position: absolute;
+    top: 0;
+    width: 114px;
+  }
+  
+  .desktop .download-removebg {
+    height: 60px;
+    left: 19px;
+    object-fit: cover;
+    position: absolute;
+    top: 27px;
+    width: 76px;
+  }

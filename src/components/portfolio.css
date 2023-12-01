@@ -1,0 +1,109 @@
+.desktop7 {
+    background-color: #02050a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    top: 0px;
+  }
+  
+  .desktop7 .div {
+    background-color: #02050a;
+    height: 7586px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktop7 .overlap7 {
+    background-color: #02050a;
+    height: 1025px;
+    left: 178px;
+    position: relative;
+    width: 932px;
+  }
+
+  .desktop7 .group-28 {
+    height: 1276px;
+    left: -100px;
+    position: absolute;
+    top: 100px;
+    width: 1100px;
+  }
+  
+  .desktop7 .my-projects {
+    color: #55e6a5;
+    font-family: "Roboto", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 251px;
+  }
+  
+  .desktop7 .text-wrapper-24 {
+    color: #ffffff;
+    font-family: "Roboto", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 63px;
+    width: 978px;
+  }
+  
+  .desktop7 .rectangle-7 {
+    height: 566px;
+    left: 0;
+    position: absolute;
+    top: 240px;
+    width: 597px;
+  }
+  
+  .desktop7 .rectangle-8 {
+    height: 566px;
+    left: 624px;
+    object-fit: cover;
+    position: absolute;
+    top: 240px;
+    width: 372px;
+  }
+  
+  .desktop7 .overlap-10 {
+    height: 459px;
+    left: 0;
+    position: absolute;
+    top: 817px;
+    width: 1096px;
+  }
+  
+  .desktop7 .group-29 {
+    background-color: #d9d9d9;
+    height: 347px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 372px;
+  }
+  
+  .desktop7 .rectangle-9 {
+    height: 338px;
+    left: 0;
+    position: absolute;
+    top: 10px;
+    width: 372px;
+  }
+  
+  .desktop7 .rectangle-10 {
+    height: 433px;
+    left: 329px;
+    object-fit: cover;
+    position: absolute;
+    top: 26px;
+    width: 767px;
+  }
